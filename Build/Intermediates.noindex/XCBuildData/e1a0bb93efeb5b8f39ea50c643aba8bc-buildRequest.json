@@ -1,0 +1,56 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "fce1b3898f7afe15486ef8d850bf5667d50fa4504718b054a8f236453184f845"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zebra/Zla/Dev/hmahad_git_space/VehicleCommunity/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zebra/Zla/Dev/hmahad_git_space/VehicleCommunity/Build/Products",
+      "derivedDataPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/parKango-gwpffadtcwnceahiaztmpgishzax/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/parKango-gwpffadtcwnceahiaztmpgishzax/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zebra/Zla/Dev/hmahad_git_space/VehicleCommunity/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "FC2926D3-667E-4BCD-8C87-0728F5E730DA",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

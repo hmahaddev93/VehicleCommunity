@@ -1,0 +1,150 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb281167d5b5dbc56a2079ce2d967b6b82"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbd57b8bce60a0f11113f4cff532db68d3"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb1f1bf5397e3bf6b03ce2b5ab2078e9b4"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb6eb7313e84cc477ddd3601687bdb0c3a"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbb762d5de103fb6cfc7506aa6be1d4f33"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb8e935c81efc4686179f554b8fe37864a"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edba408a4c1f668e62161cdeba76f57d50c"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbd367f2c9826e0c44989d081ca3d0f4ca"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb6661376a640ae8efbbca57a8d7c09bdd"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb4871cb004918038f6f30024db9e06b51"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb7c11337de6bef56af2372d3760d4de2c"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb3da17a3564c774dfaa331fa07754d2bc"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbf1e09b32067e7d86144abdaf0d62fddc"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbdd3a6a519ed4181bf31ea6bc1f18ebc5"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbbbbb266cb4185458611c79148d1a9d13"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbd3c8dfff2c580c352f83d3850ad17775"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb1a6295234d290cd00e937c8f9cd73ebf"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb718890dfdac589615663a02d43d9af3e"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb8ccc19f6082984bb48164876ab1cecd1"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb964878f2a065e9c01b1234e6b6aa5f79"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbbc473f2c7db84c6b1104cd2183682111"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbdfd2f7936221a2f264da876e0383059a"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbbaadbcb446867c246558c98cb01018c1"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbcdb7dcdb207a2bb44e5ade3eab334594"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbea730784e531c7b29a4d3807c4f260df"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edbc46180aea4e87057640961e6db37df0d"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb812cb744006e837a06a1ec7fcf8ca389"
+    },
+    {
+      "guid" : "91d14f53009ef6726b7dedaaeeaa9edb0062393f91a1d2d94e3e5ed3a5aa5da9"
+    },
+    {
+      "guid" : "7ed267bb5d49ce8ac40a0a3889368553d50fa4504718b054a8f236453184f845"
+    },
+    {
+      "guid" : "7ed267bb5d49ce8ac40a0a3889368553d6dab93ffac7aec2c36a9073252b2e9c"
+    },
+    {
+      "guid" : "7ed267bb5d49ce8ac40a0a3889368553a688af07eccb46f509eee80765e8db44"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zebra/Zla/Dev/hmahad_git_space/VehicleCommunity/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zebra/Zla/Dev/hmahad_git_space/VehicleCommunity/Build/Products",
+      "derivedDataPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/parKango-gwpffadtcwnceahiaztmpgishzax/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/parKango-gwpffadtcwnceahiaztmpgishzax/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zebra/Zla/Dev/hmahad_git_space/VehicleCommunity/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008030-001215C40E29802E",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "14.7",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

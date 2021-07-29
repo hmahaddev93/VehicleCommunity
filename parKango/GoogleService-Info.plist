@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>448906506994-25ru5ini0633vgr35ob4mt04guhuvq16.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.448906506994-25ru5ini0633vgr35ob4mt04guhuvq16</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbL3F4j35T5q78n1jb-v0k206cbGFaDl4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>448906506994</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.parKango.parKango</string>
+	<key>PROJECT_ID</key>
+	<string>parkango-66213</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parkango-66213.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:448906506994:ios:b43382996d70f503</string>
+	<key>DATABASE_URL</key>
+	<string>https://parkango-66213.firebaseio.com</string>
+</dict>
+</plist>
